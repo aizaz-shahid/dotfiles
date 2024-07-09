@@ -1,0 +1,41 @@
+0000000000000000000000000000000000000000 c221cff46bd5fc51b04817fafaec83ad1dd67c3f aizazshahid <aizaz.shahid@flexciton.com> 1716592668 +0100	commit (initial): basic config
+c221cff46bd5fc51b04817fafaec83ad1dd67c3f c221cff46bd5fc51b04817fafaec83ad1dd67c3f aizazshahid <aizaz.shahid@flexciton.com> 1716592684 +0100	Branch: renamed refs/heads/main to refs/heads/main
+c221cff46bd5fc51b04817fafaec83ad1dd67c3f 873df403c01a110b67fe654d7256abcd61d9a964 aizazshahid <aizaz.shahid@flexciton.com> 1716599335 +0100	commit (amend): basic config
+873df403c01a110b67fe654d7256abcd61d9a964 610caea26eed68e64e72030f7fad5dbae3c9e80b aizazshahid <aizaz.shahid@flexciton.com> 1716642041 +0100	commit: Clean up init.lua and restructure config
+610caea26eed68e64e72030f7fad5dbae3c9e80b 827bc1040e2ad1707c599d92dd8d210d1095f1bf aizazshahid <aizaz.shahid@flexciton.com> 1716644536 +0100	commit (amend): Clean up init.lua and restructure config
+827bc1040e2ad1707c599d92dd8d210d1095f1bf c7265fc6df6615b68f3a9ca5f418fbe4a5352dc4 aizazshahid <aizaz.shahid@flexciton.com> 1716650078 +0100	commit: Dashboard
+c7265fc6df6615b68f3a9ca5f418fbe4a5352dc4 9e7579be6171548f62d18ab43325e8f0fa692c61 aizazshahid <aizaz.shahid@flexciton.com> 1716650240 +0100	commit (amend): Dashboard
+9e7579be6171548f62d18ab43325e8f0fa692c61 827bc1040e2ad1707c599d92dd8d210d1095f1bf aizazshahid <aizaz.shahid@flexciton.com> 1716650584 +0100	rebase (finish): refs/heads/main onto 827bc1040e2ad1707c599d92dd8d210d1095f1bf
+827bc1040e2ad1707c599d92dd8d210d1095f1bf c7265fc6df6615b68f3a9ca5f418fbe4a5352dc4 aizazshahid <aizaz.shahid@flexciton.com> 1716650610 +0100	merge origin/main: Fast-forward
+c7265fc6df6615b68f3a9ca5f418fbe4a5352dc4 a354cf013263c6098ca3287e376301bfdee5acdf aizazshahid <aizaz.shahid@flexciton.com> 1716689536 +0100	commit: Some more plugins
+a354cf013263c6098ca3287e376301bfdee5acdf 0b7c95a798b0e4dc413fd30fe82c700509e5c31c aizazshahid <aizaz.shahid@flexciton.com> 1716740614 +0100	commit (amend): Some more plugins
+0b7c95a798b0e4dc413fd30fe82c700509e5c31c 8620e97f3e390ef0feec2e0167db1797a51910ea aizazshahid <aizaz.shahid@flexciton.com> 1716777990 +0100	commit: Sort out debugging, formating and linting
+8620e97f3e390ef0feec2e0167db1797a51910ea a7b521f2750b81e1d23c5dff88df19cef86defe3 aizazshahid <aizaz.shahid@flexciton.com> 1716818596 +0100	commit: Add database support
+a7b521f2750b81e1d23c5dff88df19cef86defe3 a2cf38a45edb4d1bd6d7dde466ab12599bae1e69 aizazshahid <aizaz.shahid@flexciton.com> 1716978084 +0100	commit: Cleanup and enable executing and debugging.
+a2cf38a45edb4d1bd6d7dde466ab12599bae1e69 12ce87b8dc5fa9eca8a6fc54d39d9086c9809e1c aizazshahid <aizaz.shahid@flexciton.com> 1717030235 +0100	commit: Clean up keymaps
+12ce87b8dc5fa9eca8a6fc54d39d9086c9809e1c bf4ec0131e6c9f7a7ba66406e4f2b890b3220ec2 aizazshahid <aizaz.shahid@flexciton.com> 1717107245 +0100	commit: Update some keymaps and add markdown plugin
+bf4ec0131e6c9f7a7ba66406e4f2b890b3220ec2 27a8138ab809327ecdf3507c429d6ba280efb1de aizazshahid <aizaz.shahid@flexciton.com> 1717344915 +0100	commit: Arrow, Corn, Noice, Portal, Spectre, Mini-Files
+27a8138ab809327ecdf3507c429d6ba280efb1de acae2b04afdf9242e1c33fe2447499d2fcadd659 aizazshahid <aizaz.shahid@flexciton.com> 1717868835 +0100	commit: Reduce startup time and soreted out debugging.
+acae2b04afdf9242e1c33fe2447499d2fcadd659 78f6b699010b7ab778a35c0d1306eef51da44052 aizazshahid <aizaz.shahid@flexciton.com> 1717868968 +0100	commit (amend): Reduce startup time and soreted out debugging.
+78f6b699010b7ab778a35c0d1306eef51da44052 35c444a94cc525e8716dae082e3c8b9ebad3bb0b aizazshahid <aizaz.shahid@flexciton.com> 1717887941 +0100	commit: Frecency,Outline and Keymaps
+35c444a94cc525e8716dae082e3c8b9ebad3bb0b 9327aa71650bd7fcc9e57b37bf93b3c19108650d aizazshahid <aizaz.shahid@flexciton.com> 1718449248 +0100	commit: Bufferline + Gitlab
+9327aa71650bd7fcc9e57b37bf93b3c19108650d 9c04ad59b7b88f2e4af16d80a9222b949e7e5d04 aizazshahid <aizaz.shahid@flexciton.com> 1718610711 +0100	commit (amend): Bufferline + Gitlab
+9c04ad59b7b88f2e4af16d80a9222b949e7e5d04 cab276bd53e64184b512412465b44123e2a4705d aizazshahid <aizaz.shahid@flexciton.com> 1719224638 +0100	commit: Yazi the boss
+cab276bd53e64184b512412465b44123e2a4705d f0741f7881831ae20a832d32685eca68a550570c aizazshahid <aizaz.shahid@flexciton.com> 1719344601 +0100	commit: git-conflict, diagnostics, quickfix etc
+f0741f7881831ae20a832d32685eca68a550570c b1cfd40756b43c8cac0d41ab898ff82ba439c5ce aizazshahid <aizaz.shahid@flexciton.com> 1719345515 +0100	commit: drop please
+b1cfd40756b43c8cac0d41ab898ff82ba439c5ce f0741f7881831ae20a832d32685eca68a550570c aizazshahid <aizaz.shahid@flexciton.com> 1719346136 +0100	reset: moving to b1cfd40756b43c8cac0d41ab898ff82ba439c5ce^
+f0741f7881831ae20a832d32685eca68a550570c 8ff0844e4729ca1a833651d896e8b854a4133b24 aizazshahid <aizaz.shahid@flexciton.com> 1719441552 +0100	commit (amend): git-conflict, diagnostics, quickfix etc
+8ff0844e4729ca1a833651d896e8b854a4133b24 618b08fc800c3a1418470fd4de674e9e42bd5871 aizazshahid <aizaz.shahid@flexciton.com> 1719743985 +0100	commit: git worktrees
+618b08fc800c3a1418470fd4de674e9e42bd5871 c5d8488d5273adb80cde28bded019bf5b820be94 aizazshahid <aizaz.shahid@flexciton.com> 1719744087 +0100	commit: amend! 618b08fc800c3a1418470fd4de674e9e42bd5871
+c5d8488d5273adb80cde28bded019bf5b820be94 6722ad128d7fd9beda50562b761ff1e89f511a01 aizazshahid <aizaz.shahid@flexciton.com> 1719744097 +0100	rebase (finish): refs/heads/main onto 8ff0844e4729ca1a833651d896e8b854a4133b24
+6722ad128d7fd9beda50562b761ff1e89f511a01 e697051702f631aead623ff33852f15af357ed80 aizazshahid <aizaz.shahid@flexciton.com> 1719744106 +0100	commit: amend! 6722ad128d7fd9beda50562b761ff1e89f511a01
+e697051702f631aead623ff33852f15af357ed80 01cdac97c1713832b215bcc2650150d5b5226750 aizazshahid <aizaz.shahid@flexciton.com> 1719744126 +0100	rebase (finish): refs/heads/main onto 8ff0844e4729ca1a833651d896e8b854a4133b24
+01cdac97c1713832b215bcc2650150d5b5226750 8ff0844e4729ca1a833651d896e8b854a4133b24 aizazshahid <aizaz.shahid@flexciton.com> 1719744165 +0100	rebase (finish): refs/heads/main onto 8ff0844e4729ca1a833651d896e8b854a4133b24
+8ff0844e4729ca1a833651d896e8b854a4133b24 30e927a4a50c0e38c5aaf1a58599b1de8779bacf aizazshahid <aizaz.shahid@flexciton.com> 1719744180 +0100	commit: amend! 8ff0844e4729ca1a833651d896e8b854a4133b24
+30e927a4a50c0e38c5aaf1a58599b1de8779bacf ec957498d5702057cad9dc3764edd81ab5436dd9 aizazshahid <aizaz.shahid@flexciton.com> 1719744203 +0100	rebase (finish): refs/heads/main onto cab276bd53e64184b512412465b44123e2a4705d
+ec957498d5702057cad9dc3764edd81ab5436dd9 7ec29b2850b858c43a7914cf5adc585ba9f654a7 aizazshahid <aizaz.shahid@flexciton.com> 1719744229 +0100	commit: amend! cab276bd53e64184b512412465b44123e2a4705d
+7ec29b2850b858c43a7914cf5adc585ba9f654a7 9e2f6bd2ec67a52ed8da1ed5dd85dd2f478ca5ad aizazshahid <aizaz.shahid@flexciton.com> 1719744243 +0100	rebase (finish): refs/heads/main onto 9c04ad59b7b88f2e4af16d80a9222b949e7e5d04
+9e2f6bd2ec67a52ed8da1ed5dd85dd2f478ca5ad a21bf98ae41ef97033fee1839cc575ad0ba7e868 aizazshahid <aizaz.shahid@flexciton.com> 1719745416 +0100	commit (amend): feat(plugins): git-worktrees, git-conflict, diagnostics, quickfix etc
+a21bf98ae41ef97033fee1839cc575ad0ba7e868 29c76b1616d245df0a07d6948440734a70399517 aizazshahid <aizaz.shahid@flexciton.com> 1720199845 +0100	commit: Cleanup
+29c76b1616d245df0a07d6948440734a70399517 c81370afdc0ed89c4b23188e59abe1d9e725c935 aizazshahid <aizaz.shahid@flexciton.com> 1720201223 +0100	commit (amend): Cleanup
+c81370afdc0ed89c4b23188e59abe1d9e725c935 492f1cb2cc090d3b88c4bdd157c23831e169b4cd aizazshahid <aizaz.shahid@flexciton.com> 1720202637 +0100	commit (amend): Cleanup

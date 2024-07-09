@@ -1,0 +1,26 @@
+test commit rebased
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Commands:
+#   q          Close
+#   <c-c><c-c> Submit
+#   <c-c><c-k> Abort
+#   <m-p>      Previous Message
+#   <m-n>      Next Message
+#   <m-r>      Reset Message
+#
+# Date:      Fri Jul 5 19:21:17 2024 +0100
+#
+# interactive rebase in progress; onto 93737d6
+# Last command done (1 command done):
+#    reword 052bb9f test commit 2
+# Next command to do (1 remaining command):
+#    fixup 21999d8 test commit 3
+# You are currently editing a commit while rebasing branch 'test-rebase' on '93737d6'.
+#
+# Changes to be committed:
+#	modified:   lua/azee/keymaps.lua
+#
+
